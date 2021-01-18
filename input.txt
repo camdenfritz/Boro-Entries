@@ -1,0 +1,6 @@
+--Remove this line after but follow input for yourself, Size, First, Last, Middle, Zip, Gender, amount of entries
+Random,Camden,Fritz,R,80021,Male,15
+Random,Camden,Fritz,R,80238,Male,15
+Random,Camden,Fritz,R,80023,Male,15
+Random,Camden,Fritz,R,80012,Male,15
+Random,Camden,Fritz,R,80206,Male,15
